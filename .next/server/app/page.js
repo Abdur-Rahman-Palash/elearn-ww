@@ -1,4 +1,4 @@
-(()=>{var e={};e.id=931,e.ids=[931],e.modules={7849:e=>{"use strict";e.exports=require("next/dist/client/components/action-async-storage.external")},5403:e=>{"use strict";e.exports=require("next/dist/client/components/request-async-storage.external")},4749:e=>{"use strict";e.exports=require("next/dist/client/components/static-generation-async-storage.external")},399:e=>{"use strict";e.exports=require("next/dist/compiled/next-server/app-page.runtime.prod.js")},5528:e=>{"use strict";e.exports=require("next/dist\\client\\components\\action-async-storage.external.js")},1877:e=>{"use strict";e.exports=require("next/dist\\client\\components\\request-async-storage.external.js")},5319:e=>{"use strict";e.exports=require("next/dist\\client\\components\\static-generation-async-storage.external.js")},8670:(e,t,s)=>{"use strict";s.r(t),s.d(t,{GlobalError:()=>l.a,__next_app__:()=>x,originalPathname:()=>m,pages:()=>d,routeModule:()=>h,tree:()=>c});var a=s(482),i=s(9108),r=s(2563),l=s.n(r),n=s(8300),o={};for(let e in n)0>["default","tree","pages","GlobalError","originalPathname","__next_app__","routeModule"].indexOf(e)&&(o[e]=()=>n[e]);s.d(t,o);let c=["",{children:["__PAGE__",{},{page:[()=>Promise.resolve().then(s.bind(s,4823)),"C:\\Users\\USER\\Desktop\\elearn ww\\app\\page.tsx"]}]},{layout:[()=>Promise.resolve().then(s.bind(s,2917)),"C:\\Users\\USER\\Desktop\\elearn ww\\app\\layout.tsx"],"not-found":[()=>Promise.resolve().then(s.bind(s,1429)),"C:\\Users\\USER\\Desktop\\elearn ww\\app\\not-found.tsx"]}],d=["C:\\Users\\USER\\Desktop\\elearn ww\\app\\page.tsx"],m="/page",x={require:s,loadChunk:()=>Promise.resolve()},h=new a.AppPageRouteModule({definition:{kind:i.x.APP_PAGE,page:"/page",pathname:"/",bundlePath:"",filename:"",appPaths:[]},userland:{loaderTree:c}})},4987:(e,t,s)=>{Promise.resolve().then(s.bind(s,5704)),Promise.resolve().then(s.bind(s,4399)),Promise.resolve().then(s.bind(s,2525)),Promise.resolve().then(s.bind(s,1890)),Promise.resolve().then(s.bind(s,3229)),Promise.resolve().then(s.bind(s,4492)),Promise.resolve().then(s.bind(s,7847)),Promise.resolve().then(s.bind(s,7197)),Promise.resolve().then(s.bind(s,1611)),Promise.resolve().then(s.bind(s,2264))},5704:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>m});var a=s(5344),i=s(1067),r=s(7060);/**
+(()=>{var e={};e.id=931,e.ids=[931],e.modules={7849:e=>{"use strict";e.exports=require("next/dist/client/components/action-async-storage.external")},5403:e=>{"use strict";e.exports=require("next/dist/client/components/request-async-storage.external")},4749:e=>{"use strict";e.exports=require("next/dist/client/components/static-generation-async-storage.external")},399:e=>{"use strict";e.exports=require("next/dist/compiled/next-server/app-page.runtime.prod.js")},5528:e=>{"use strict";e.exports=require("next/dist\\client\\components\\action-async-storage.external.js")},1877:e=>{"use strict";e.exports=require("next/dist\\client\\components\\request-async-storage.external.js")},5319:e=>{"use strict";e.exports=require("next/dist\\client\\components\\static-generation-async-storage.external.js")},8670:(e,t,s)=>{"use strict";s.r(t),s.d(t,{GlobalError:()=>l.a,__next_app__:()=>x,originalPathname:()=>m,pages:()=>d,routeModule:()=>h,tree:()=>c});var a=s(482),i=s(9108),r=s(2563),l=s.n(r),n=s(8300),o={};for(let e in n)0>["default","tree","pages","GlobalError","originalPathname","__next_app__","routeModule"].indexOf(e)&&(o[e]=()=>n[e]);s.d(t,o);let c=["",{children:["__PAGE__",{},{page:[()=>Promise.resolve().then(s.bind(s,4823)),"C:\\Users\\USER\\Desktop\\elearn ww\\app\\page.tsx"]}]},{layout:[()=>Promise.resolve().then(s.bind(s,2917)),"C:\\Users\\USER\\Desktop\\elearn ww\\app\\layout.tsx"],"not-found":[()=>Promise.resolve().then(s.bind(s,1429)),"C:\\Users\\USER\\Desktop\\elearn ww\\app\\not-found.tsx"]}],d=["C:\\Users\\USER\\Desktop\\elearn ww\\app\\page.tsx"],m="/page",x={require:s,loadChunk:()=>Promise.resolve()},h=new a.AppPageRouteModule({definition:{kind:i.x.APP_PAGE,page:"/page",pathname:"/",bundlePath:"",filename:"",appPaths:[]},userland:{loaderTree:c}})},4987:(e,t,s)=>{Promise.resolve().then(s.bind(s,5704)),Promise.resolve().then(s.bind(s,4399)),Promise.resolve().then(s.bind(s,2525)),Promise.resolve().then(s.bind(s,1890)),Promise.resolve().then(s.bind(s,3229)),Promise.resolve().then(s.bind(s,4492)),Promise.resolve().then(s.bind(s,7847)),Promise.resolve().then(s.bind(s,7197)),Promise.resolve().then(s.bind(s,1611)),Promise.resolve().then(s.bind(s,123))},5704:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>m});var a=s(5344),i=s(1067),r=s(7060);/**
  * @license lucide-react v0.303.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -23,7 +23,22 @@
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */let a=(0,s(9224).Z)("ArrowRight",[["path",{d:"M5 12h14",key:"1ays0h"}],["path",{d:"m12 5 7 7-7 7",key:"xquz4c"}]])},7060:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ */let a=(0,s(9224).Z)("ArrowRight",[["path",{d:"M5 12h14",key:"1ays0h"}],["path",{d:"m12 5 7 7-7 7",key:"xquz4c"}]])},5187:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ * @license lucide-react v0.303.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=(0,s(9224).Z)("Award",[["circle",{cx:"12",cy:"8",r:"6",key:"1vp47v"}],["path",{d:"M15.477 12.89 17 22l-5-3-5 3 1.523-9.11",key:"em7aur"}]])},8589:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ * @license lucide-react v0.303.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=(0,s(9224).Z)("BookOpen",[["path",{d:"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z",key:"vv98re"}],["path",{d:"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z",key:"1cyq3y"}]])},5794:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ * @license lucide-react v0.303.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=(0,s(9224).Z)("Calendar",[["rect",{width:"18",height:"18",x:"3",y:"4",rx:"2",ry:"2",key:"eu3xkr"}],["line",{x1:"16",x2:"16",y1:"2",y2:"6",key:"m3sa8f"}],["line",{x1:"8",x2:"8",y1:"2",y2:"6",key:"18kwsl"}],["line",{x1:"3",x2:"21",y1:"10",y2:"10",key:"xt86sb"}]])},7060:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
  * @license lucide-react v0.303.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -43,12 +58,22 @@
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */let a=(0,s(9224).Z)("Download",[["path",{d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4",key:"ih7n3h"}],["polyline",{points:"7 10 12 15 17 10",key:"2ggqvy"}],["line",{x1:"12",x2:"12",y1:"15",y2:"3",key:"1vk2je"}]])},5851:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ */let a=(0,s(9224).Z)("Download",[["path",{d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4",key:"ih7n3h"}],["polyline",{points:"7 10 12 15 17 10",key:"2ggqvy"}],["line",{x1:"12",x2:"12",y1:"15",y2:"3",key:"1vk2je"}]])},7121:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
  * @license lucide-react v0.303.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */let a=(0,s(9224).Z)("MessageCircle",[["path",{d:"M7.9 20A9 9 0 1 0 4 16.1L2 22Z",key:"vv11sd"}]])},6588:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ */let a=(0,s(9224).Z)("FileText",[["path",{d:"M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z",key:"1nnpy2"}],["polyline",{points:"14 2 14 8 20 8",key:"1ew0cm"}],["line",{x1:"16",x2:"8",y1:"13",y2:"13",key:"14keom"}],["line",{x1:"16",x2:"8",y1:"17",y2:"17",key:"17nazh"}],["line",{x1:"10",x2:"8",y1:"9",y2:"9",key:"1a5vjj"}]])},5851:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ * @license lucide-react v0.303.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=(0,s(9224).Z)("MessageCircle",[["path",{d:"M7.9 20A9 9 0 1 0 4 16.1L2 22Z",key:"vv11sd"}]])},7320:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ * @license lucide-react v0.303.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=(0,s(9224).Z)("Play",[["polygon",{points:"5 3 19 12 5 21 5 3",key:"191637"}]])},6588:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
  * @license lucide-react v0.303.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -58,7 +83,12 @@
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */let a=(0,s(9224).Z)("Star",[["polygon",{points:"12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2",key:"8f66p6"}]])},9895:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ */let a=(0,s(9224).Z)("Star",[["polygon",{points:"12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2",key:"8f66p6"}]])},6064:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
+ * @license lucide-react v0.303.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=(0,s(9224).Z)("TrendingUp",[["polyline",{points:"22 7 13.5 15.5 8.5 10.5 2 17",key:"126l90"}],["polyline",{points:"16 7 22 7 22 13",key:"kwv8wd"}]])},9895:(e,t,s)=>{"use strict";s.d(t,{Z:()=>a});/**
  * @license lucide-react v0.303.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -68,4 +98,4 @@
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */let a=(0,s(9224).Z)("Video",[["path",{d:"m22 8-6 4 6 4V8Z",key:"50v9me"}],["rect",{width:"14",height:"12",x:"2",y:"6",rx:"2",ry:"2",key:"1rqjg6"}]])},4823:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>B});var a=s(5036),i=s(1900),r=s(5340),l=s(6843);let n=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Hero.tsx`),{__esModule:o,$$typeof:c}=n,d=n.default,m=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Categories.tsx`),{__esModule:x,$$typeof:h}=m,u=m.default,p=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\FeaturedCourses.tsx`),{__esModule:g,$$typeof:y}=p,b=p.default,v=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\LearningProcess.tsx`),{__esModule:j,$$typeof:w}=v,f=v.default,N=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Benefits.tsx`),{__esModule:C,$$typeof:k}=N,S=N.default,Z=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Batches.tsx`),{__esModule:E,$$typeof:D}=Z,A=Z.default,M=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Features.tsx`),{__esModule:P,$$typeof:U}=M,L=M.default,V=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Testimonials.tsx`),{__esModule:R,$$typeof:_}=V,H=V.default,$=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\AppPromo.tsx`),{__esModule:I,$$typeof:T}=$,q=$.default;function B(){return(0,a.jsxs)("main",{className:"min-h-screen",children:[a.jsx(i.ZP,{}),a.jsx(d,{}),a.jsx(u,{}),a.jsx(b,{}),a.jsx(f,{}),a.jsx(S,{}),a.jsx(A,{}),a.jsx(L,{}),a.jsx(H,{}),a.jsx(q,{}),a.jsx(r.Z,{})]})}}};var t=require("../webpack-runtime.js");t.C(e);var s=e=>t(t.s=e),a=t.X(0,[326,125,77],()=>s(8670));module.exports=a})();
+ */let a=(0,s(9224).Z)("Video",[["path",{d:"m22 8-6 4 6 4V8Z",key:"50v9me"}],["rect",{width:"14",height:"12",x:"2",y:"6",rx:"2",ry:"2",key:"1rqjg6"}]])},4823:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>B});var a=s(5036),i=s(1900),r=s(6785),l=s(6843);let n=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Hero.tsx`),{__esModule:o,$$typeof:c}=n,d=n.default,m=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Categories.tsx`),{__esModule:x,$$typeof:h}=m,u=m.default,p=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\FeaturedCourses.tsx`),{__esModule:y,$$typeof:g}=p,b=p.default,v=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\LearningProcess.tsx`),{__esModule:j,$$typeof:w}=v,f=v.default,N=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Benefits.tsx`),{__esModule:k,$$typeof:C}=N,S=N.default,Z=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Batches.tsx`),{__esModule:E,$$typeof:D}=Z,A=Z.default,M=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Features.tsx`),{__esModule:P,$$typeof:U}=M,L=M.default,V=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\Testimonials.tsx`),{__esModule:R,$$typeof:_}=V,H=V.default,T=(0,l.createProxy)(String.raw`C:\Users\USER\Desktop\elearn ww\components\home\AppPromo.tsx`),{__esModule:$,$$typeof:I}=T,q=T.default;function B(){return(0,a.jsxs)("main",{className:"min-h-screen",children:[a.jsx(i.ZP,{}),a.jsx(d,{}),a.jsx(u,{}),a.jsx(b,{}),a.jsx(f,{}),a.jsx(S,{}),a.jsx(A,{}),a.jsx(L,{}),a.jsx(H,{}),a.jsx(q,{}),a.jsx(r.Z,{})]})}}};var t=require("../webpack-runtime.js");t.C(e);var s=e=>t(t.s=e),a=t.X(0,[326,298,402],()=>s(8670));module.exports=a})();

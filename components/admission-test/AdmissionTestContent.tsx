@@ -125,7 +125,7 @@ const admissionPrograms = {
   ]
 }
 
-const categories = Object.keys(admissionPrograms)
+const categories = Object.keys(admissionPrograms) as (keyof typeof admissionPrograms)[]
 
 export default function AdmissionTestContent() {
   const [selectedCategory, setSelectedCategory] = useState('All')

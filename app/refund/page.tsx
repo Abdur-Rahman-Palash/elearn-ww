@@ -1,13 +1,9 @@
-import { Metadata } from 'next'
+'use client'
+
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
 import { motion } from 'framer-motion'
 
-export const metadata: Metadata = {
-  title: 'Refund Policy | EduLearn',
-  description: 'Read EduLearn\'s refund policy to understand our refund process and eligibility criteria for course refunds.',
-  keywords: 'refund policy, money back guarantee, course refund, edulearn refund',
-}
 
 export default function RefundPage() {
   return (

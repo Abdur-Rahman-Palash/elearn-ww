@@ -45,7 +45,6 @@ const sscBatches = [
         price: 3299,
         students: 520,
         features: ['Live Classes', 'Recorded Videos', 'Practical Classes', 'Lab Work', 'Regular Tests'],
-        badge: null
       },
       {
         id: '4',
@@ -72,7 +71,6 @@ const sscBatches = [
         price: 2999,
         students: 380,
         features: ['Live Classes', 'Recorded Videos', 'Practical Classes', 'Lab Work', 'Regular Tests'],
-        badge: null
       }
     ]
   },
@@ -89,7 +87,6 @@ const sscBatches = [
         price: 2999,
         students: 350,
         features: ['Live Classes', 'Recorded Videos', 'Practical Classes', 'Lab Work', 'Regular Tests'],
-        badge: null
       }
     ]
   },
@@ -123,7 +120,6 @@ const sscBatches = [
         price: 1999,
         students: 420,
         features: ['Live Classes', 'Recorded Videos', 'Literature Focus', 'Writing Practice', 'Regular Tests'],
-        badge: null
       }
     ]
   },
@@ -140,7 +136,6 @@ const sscBatches = [
         price: 1999,
         students: 320,
         features: ['Live Classes', 'Recorded Videos', 'History Focus', 'Geography', 'Regular Tests'],
-        badge: null
       }
     ]
   },
@@ -157,7 +152,6 @@ const sscBatches = [
         price: 1999,
         students: 280,
         features: ['Live Classes', 'Recorded Videos', 'Islamic Studies', 'Quran Memorization', 'Regular Tests'],
-        badge: null
       }
     ]
   }

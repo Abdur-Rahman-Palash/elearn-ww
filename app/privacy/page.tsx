@@ -1,13 +1,9 @@
-import { Metadata } from 'next'
+'use client'
+
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
 import { motion } from 'framer-motion'
 
-export const metadata: Metadata = {
-  title: 'Privacy Policy | EduLearn',
-  description: 'Read EduLearn\'s privacy policy to understand how we collect, use, and protect your personal information.',
-  keywords: 'privacy policy, data protection, user privacy, edulearn privacy',
-}
 
 export default function PrivacyPage() {
   return (

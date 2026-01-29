@@ -108,7 +108,7 @@ const comments = [
   }
 ]
 
-function BlogDetailsPage() {
+export default function BlogDetailsPage() {
   const [isLiked, setIsLiked] = useState(false)
   const [likeCount, setLikeCount] = useState(mockBlogPost.likes)
   const [commentText, setCommentText] = useState('')

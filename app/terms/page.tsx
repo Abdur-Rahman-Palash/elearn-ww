@@ -1,13 +1,9 @@
-import { Metadata } from 'next'
+'use client'
+
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
 import { motion } from 'framer-motion'
 
-export const metadata: Metadata = {
-  title: 'Terms & Conditions | EduLearn',
-  description: 'Read EduLearn\'s terms and conditions for using our educational platform. Understand your rights and responsibilities.',
-  keywords: 'terms and conditions, legal terms, user agreement, edulearn terms',
-}
 
 export default function TermsPage() {
   return (

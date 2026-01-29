@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
-import { Search, Award, CheckCircle, AlertCircle, Download, Share2, Calendar, User, BookOpen } from 'lucide-react'
+import { Search, Award, CheckCircle, AlertCircle, Download, Share2, Calendar, User, BookOpen, Clock } from 'lucide-react'
 
 export default function VerifyCertificatePage() {
   const [certificateId, setCertificateId] = useState('')
@@ -130,7 +130,7 @@ export default function VerifyCertificatePage() {
 
                 <div className="mt-6 p-4 bg-blue-50 rounded-lg">
                   <p className="text-sm text-blue-800">
-                    <strong>Test Certificate IDs:</strong> Try "VALID123" or "TEST456" to see a sample verified certificate.
+                    <strong>Test Certificate IDs:</strong> Try &quot;VALID123&quot; or &quot;TEST456&quot; to see a sample verified certificate.
                   </p>
                 </div>
               </motion.div>
